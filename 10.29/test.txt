@@ -1,0 +1,3 @@
+this is test for ifstream
+this is test for ostream_iterator
+this is test for istream_iterator
